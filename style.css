@@ -1,0 +1,56 @@
+body {
+    background-color: rgb(219, 197, 248);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1 {
+    color: rgb(162, 123, 195);
+}
+    p {
+        color: black;
+    }
+#Avatar {
+    border-radius: 50%;
+    box-shadow: 5px 10px 10px lightslategray;
+    width: 280px;
+}
+.container {
+    margin: 40px;
+    text-align: center;
+    box-shadow: 5px 10px 10px lightslategray;
+    background-color: lavenderblush;
+}
+#Famille {
+    border-radius: 5%;
+    width: 280px
+}
+ul {
+    width: 150px;
+    margin: auto;
+}
+.container2 {
+    margin: 40px;
+    text-align: center;
+    box-shadow: 5px 10px 10px lightslategray;
+    background-color: rgb(162, 123, 195);
+    h3 {
+        color: whitesmoke;
+    }
+    p {
+        color: whitesmoke;
+    }
+}
+#Friends {
+    width: 280px;
+}
+#Girls {
+    width: 280px;
+}
+#JAA {
+    width: 280px;
+}
+#Agathe {
+    width: 210px;
+}
+h3 {
+    color: rgb(162, 123, 195);
+}
